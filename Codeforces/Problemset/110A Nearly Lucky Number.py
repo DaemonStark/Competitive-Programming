@@ -1,19 +1,11 @@
-def solve(n):
-    ls = [4, 7]
-    for each in str(n):
-        if each not in str(ls):
-            return False
-        else:
-            if len(str(n)) == 4 or len(str(n)) == 7:
-                if each in str(ls):
-                    return False
-                else:
-                    return True
+n = str(input())
+length = len(n)
+count = 0
+for i in range(length):
+    if(n[i] == '4' or n[i] == '7'):
+        count += 1
 
-
-if __name__ == '__main__':
-    n = int(input())
-    if(solve(n) == True):
-        print("YES")
-    else:
-        print("NO")
+if(count == 4 or count == 7):
+    print("YES")
+else:
+    print("NO")
