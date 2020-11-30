@@ -3,4 +3,5 @@
 Competitive Programming
 
 - Solutions to various cp problems
-- Ashutosh Deshpande
+
+- By Ashutosh Deshpande (DaemonStark)
