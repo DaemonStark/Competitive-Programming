@@ -2,4 +2,5 @@
 
 Competitive Programming
 
-- This repo contains all my competitive programming problem solutions.
+- Solutions to various cp problems
+- Ashutosh Deshpande
