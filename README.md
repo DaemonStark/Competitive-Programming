@@ -7,6 +7,7 @@ Competitive Programming
 - Atcoder
 - CodeForces
   - A
+  - B
 - Hackerrank
 - Leetcode
 - Kick Start
