@@ -2,7 +2,7 @@
 
 Competitive Programming
 
-- Solutions to various cp problems
+- Solutions to various cp problems in Python
 
 - Atcoder
 - CodeForces
