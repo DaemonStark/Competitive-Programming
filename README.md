@@ -2,14 +2,12 @@
 
 Competitive Programming
 
-- Solutions to various cp problems in Python
+- Solutions to various cp problems in C++ and Python
 
+- Leetcode
 - Atcoder
 - CodeForces
-  - A
-  - B
 - Hackerrank
-- Leetcode
 - Kick Start
 
 - By Ashutosh Deshpande (DaemonStark)
